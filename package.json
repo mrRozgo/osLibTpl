@@ -1,6 +1,6 @@
 {
   "name": "oslibtpl",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "template for the libraries",
   "main": "src/index.js",
   "scripts": {
