@@ -1,0 +1,23 @@
+{
+  "name": "oslibtpl",
+  "version": "1.0.0",
+  "description": "template for the libraries",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrRozgo/osLibTpl.git"
+  },
+  "keywords": [
+    "template",
+    "boilerplate"
+  ],
+  "author": "mr.rozgo <mr.rozgo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrRozgo/osLibTpl/issues"
+  },
+  "homepage": "https://github.com/mrRozgo/osLibTpl#readme"
+}
