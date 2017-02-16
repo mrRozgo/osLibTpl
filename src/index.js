@@ -4,5 +4,8 @@ module.exports = {
     },
     go: function() {
         return 'walking';
+    },
+    beta: function() {
+        return 'beta';
     }
 };
