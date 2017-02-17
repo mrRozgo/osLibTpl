@@ -1,11 +1,6 @@
+var _var = null; 
+
 module.exports = {
-    say: function() {
-        return 'hello';
-    },
-    go: function() {
-        return 'walking';
-    },
-    beta: function() {
-        return 'beta';
-    }
+    pubGet: () => _var,
+    pubSet: val => _var = val
 };

@@ -1,6 +1,6 @@
 test
---require ./test/common.spec.js
 --recursive
+--require ./test/common.spec.js
 --bail
 --check-leaks
 --ui bdd

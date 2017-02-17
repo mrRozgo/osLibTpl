@@ -1,2 +1,5 @@
-global.expect = require('chai').expect;
-global.path = require('path');
+import path from 'path';
+import { expect } from 'chai';
+
+global.path = path;
+global.expect = expect;
